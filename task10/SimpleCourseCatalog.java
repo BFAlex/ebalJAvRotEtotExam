@@ -6,7 +6,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-// 2a) TODO: CourseCatalog implementieren und Konstruktor vervollständigen
 public class SimpleCourseCatalog implements CourseCatalog {
     private final List<CourseRegistration> registrations;
 

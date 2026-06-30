@@ -12,7 +12,7 @@ public class ParcelConfigReader {
         String[] lines = input.split("\n");
     
         for (String line : lines) {
-            if (line.isEmpty()) continue;  // пропускаем пустые
+            if (line.isEmpty()) continue; 
             
             String[] parts = line.split("\\|");
             if (parts.length != 3) {

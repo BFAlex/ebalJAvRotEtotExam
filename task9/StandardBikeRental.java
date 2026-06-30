@@ -1,5 +1,4 @@
 
-// 1a) TODO: BikeRental implementieren
 public class StandardBikeRental implements BikeRental {
     private final String bikeId;
     private final String customerName;

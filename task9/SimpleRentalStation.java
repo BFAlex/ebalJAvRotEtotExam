@@ -4,7 +4,6 @@ import java.util.EnumMap;
 import java.util.Map;
 import java.util.Optional;
 
-// 2a) TODO: RentalStation implementieren und Konstruktor vervollständigen
 public class SimpleRentalStation implements RentalStation {
     private final Collection<BikeRental> rentals;
 

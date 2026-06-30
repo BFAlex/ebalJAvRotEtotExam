@@ -1,5 +1,4 @@
 
-// 1a) TODO: von BaseSession erben und intensity-Feld hinzufügen
 public class GymSession extends BaseSession {
     public Intensity intensity;
 

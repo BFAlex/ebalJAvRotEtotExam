@@ -4,7 +4,6 @@ import java.util.EnumMap;
 import java.util.List;
 import java.util.Map;
 
-// 2a) TODO: Playlist implementieren und Konstruktor vervollständigen
 public class BasicPlaylist implements Playlist {
     private final List<Track> tracks;
 
