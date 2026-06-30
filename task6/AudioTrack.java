@@ -1,4 +1,4 @@
-// 1a) TODO: von BaseTrack erben und genre-Feld hinzufügen
+
 public class AudioTrack extends BaseTrack {
     public Genre genre;
 
